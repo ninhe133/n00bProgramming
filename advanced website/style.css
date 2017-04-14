@@ -1,0 +1,109 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: #0b0100;
+	text-align: center;
+}
+
+.main {
+	width: 100%;
+	height: 1200px;
+	background-image: url(https://i.imgur.com/1zy6oxw.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+.mainAbout{
+	width: 100%;
+	height: 1080px;
+	background-image: url(https://images5.alphacoders.com/439/thumb-1920-439361.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+.topContainer{
+	width: 100%;
+	height: 55px;
+	display: table;
+	background: #a3bc9a;
+	margin: 0 auto;
+}
+
+.logo{
+	width: 20%;
+	height: 50px;
+	background-size: 50px;
+	background-image: url(Apple_logo_black.svg.png);
+	background-repeat: no-repeat;
+	float: left;
+}
+
+.buttons{
+	width: 50%;
+	height: 55px;
+	float: right;
+	text-align: right;
+
+}
+
+.buttons a {
+	color: white;
+	text-decoration: none;
+	line-height: 55px;
+    margin: 0 5px;
+	font-family: "Arial";
+}
+
+.icons{
+	width: 28%;
+	height: 50px;
+	float: right;
+	text-align: right;
+
+}
+
+.icons a{
+	line-height: 65px;
+    margin: 0 5px;
+	color: black;}
+	
+.contents{
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.bottom {
+	width: 100%;
+	height: 40px;
+	background: #a3bc9a;
+}
+.pictures img{
+	margin: 0 20px;
+
+}
+
+li{
+	font-family: "Arial";
+}
+
+h1{
+	text-align: center;
+	font-family:"Arial";
+	font: 26pt;
+	color: #000000;
+}
+
+p{
+	font-family: "Arial";
+	font-size: 16pt;
+	text-align: left;
+	color: #FFFFFF;
+	margin-left: 20px;	
+	margin-bottom: 10px;
+}
+
