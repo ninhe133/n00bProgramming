@@ -8,6 +8,12 @@ body {
 	text-align: center;
 }
 
+@font-face
+{
+	font-family: HL;
+	src: url('fonts/BLKCHCRY.ttf');
+}
+
 .main {
 	width: 100%;
 	height: 1200px;
@@ -23,6 +29,16 @@ body {
 	background-size: 100%;
 	background-repeat: no-repeat;
 }
+
+.mainContact{
+	width: 100%;
+	height: 1080px;
+	background-image: url(http://4k.com/wp-content/uploads/2014/09/Earth-From-Space-Space.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+
 
 .topContainer{
 	width: 100%;
@@ -107,3 +123,22 @@ p{
 	margin-bottom: 10px;
 }
 
+nav ul li
+{
+	display: inline-block;
+	margin-left: 20px;
+	list-style: none;
+	font-family: HL;
+	font-size:50px;
+	color: white;
+	
+}
+
+
+nav ul li a
+{
+	font-family: HL;
+	font-size:30px;
+	color: white;
+	
+}
