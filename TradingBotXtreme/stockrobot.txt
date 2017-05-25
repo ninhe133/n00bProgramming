@@ -1,0 +1,30 @@
+Stock Robot:
+
+Algoritm:
+Lättast att använda en befintlig algoritm och sedan modifiera den.
+T.ex. Moving Averages (MA).
+
+Språk:
+Programmen som används kan skrivas i vanliga programmeringsspråk som Java och C++. 
+Ernie Chan, känd så kallad kvanttrader som skrivit böcker i ämnet, 
+rekommenderar nybörjare att starta med Matlab eller R.
+Sedan är det bara att koppla upp sig till marknaden via handelsplattformar
+ som stöder automatiserad handel via gränssnittet API, 
+utomlands används namn som Ninja Trader.
+
+
+Mål:
+1. Bestäm språk, läs på om detta. Datum: 17-05-31.
+   och utvecklingsmiljö.
+
+2. Förstå processen 17-06-30
+ 	* Samla data
+	* ta beslut
+	* Lägga order (API Avanza ?)
+
+
+Info:
+Länk: http://www.privataaffarer.se/borsguiden/bygg-din-egen-borsrobot-269821
+
+
+
