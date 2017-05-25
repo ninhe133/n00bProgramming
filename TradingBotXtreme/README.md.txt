@@ -1,0 +1,1 @@
+This is a project where a trading bot will be created.
