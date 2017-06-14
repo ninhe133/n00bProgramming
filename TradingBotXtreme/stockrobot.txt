@@ -34,3 +34,6 @@ https://www.youtube.com/watch?v=fpqzXgZjSqM
 
 länk till github:
 https://github.com/bwentzloff/trading-bot
+
+Hämta data med python
+http://www.quantatrisk.com/2014/01/14/hacking-google-finance-in-real-time-for-algorithmic-traders/
