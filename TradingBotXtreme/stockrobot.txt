@@ -28,3 +28,9 @@ Länk: http://www.privataaffarer.se/borsguiden/bygg-din-egen-borsrobot-269821
 
 
 
+
+Länk till okej YT tutorial:
+https://www.youtube.com/watch?v=fpqzXgZjSqM
+
+länk till github:
+https://github.com/bwentzloff/trading-bot
